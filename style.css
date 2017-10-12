@@ -1,4 +1,7 @@
 body {
-  background-color: white;
+  background-color: DBC3A2;
   font-family: Helvetica;
+}
+.header {
+  align: center;
 }
