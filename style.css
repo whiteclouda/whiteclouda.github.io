@@ -1,7 +1,8 @@
 body {
   background-color: DBC3A2;
+  color: 8F724C;
   font-family: Helvetica;
 }
 .header {
-  align: center;
+  text-align: center;
 }
